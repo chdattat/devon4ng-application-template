@@ -22,7 +22,7 @@
     "@angular/platform-browser": "~10.0.3",
     "@angular/platform-browser-dynamic": "~10.0.3",
     "@angular/router": "~10.0.3",
-    "@nestjsx/crud-request": "^4.2.0",
+    "@nestjsx/crud-request": "^4.6.2",
     "@ngneat/transloco": "^2.13.5",
     "core-js": "^2.5.4",
     "intl": "^1.2.5",
